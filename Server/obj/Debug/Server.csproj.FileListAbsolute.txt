@@ -1,0 +1,9 @@
+C:\Users\rund2\Desktop\DiceApp2\Server\bin\Debug\Server.exe.config
+C:\Users\rund2\Desktop\DiceApp2\Server\bin\Debug\Server.exe
+C:\Users\rund2\Desktop\DiceApp2\Server\bin\Debug\Server.pdb
+C:\Users\rund2\Desktop\DiceApp2\Server\bin\Debug\Lab.dll
+C:\Users\rund2\Desktop\DiceApp2\Server\bin\Debug\Lab.pdb
+C:\Users\rund2\Desktop\DiceApp2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\rund2\Desktop\DiceApp2\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\rund2\Desktop\DiceApp2\Server\obj\Debug\Server.exe
+C:\Users\rund2\Desktop\DiceApp2\Server\obj\Debug\Server.pdb
