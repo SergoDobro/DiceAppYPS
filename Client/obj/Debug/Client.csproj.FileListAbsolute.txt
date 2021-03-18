@@ -1,0 +1,10 @@
+C:\Users\rund2\Desktop\DiceApp2\Client\bin\Debug\Client.exe.config
+C:\Users\rund2\Desktop\DiceApp2\Client\bin\Debug\Client.exe
+C:\Users\rund2\Desktop\DiceApp2\Client\bin\Debug\Client.pdb
+C:\Users\rund2\Desktop\DiceApp2\Client\bin\Debug\Lab.dll
+C:\Users\rund2\Desktop\DiceApp2\Client\bin\Debug\Lab.pdb
+C:\Users\rund2\Desktop\DiceApp2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\rund2\Desktop\DiceApp2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\rund2\Desktop\DiceApp2\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\rund2\Desktop\DiceApp2\Client\obj\Debug\Client.exe
+C:\Users\rund2\Desktop\DiceApp2\Client\obj\Debug\Client.pdb

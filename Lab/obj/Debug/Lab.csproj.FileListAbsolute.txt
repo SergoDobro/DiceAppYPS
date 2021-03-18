@@ -1,0 +1,6 @@
+C:\Users\rund2\Desktop\DiceApp2\Lab\bin\Debug\Lab.dll
+C:\Users\rund2\Desktop\DiceApp2\Lab\bin\Debug\Lab.pdb
+C:\Users\rund2\Desktop\DiceApp2\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\Users\rund2\Desktop\DiceApp2\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\rund2\Desktop\DiceApp2\Lab\obj\Debug\Lab.dll
+C:\Users\rund2\Desktop\DiceApp2\Lab\obj\Debug\Lab.pdb
